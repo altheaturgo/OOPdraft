@@ -7,7 +7,7 @@ import javax.swing.table.DefaultTableModel;
 import java.util.List;
 import java.util.Comparator;
 import java.time.format.DateTimeFormatter;
-import motorph.gui.MainApplication;
+import view.MainApplication;
 import java.util.Map;
 
 /**

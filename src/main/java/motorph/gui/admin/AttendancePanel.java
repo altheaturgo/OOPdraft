@@ -14,7 +14,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.ArrayList;
 import java.util.Comparator;
-import motorph.gui.MainApplication;
+import view.MainApplication;
 
 /**
  * A panel for administrators to view and filter all employee attendance records.

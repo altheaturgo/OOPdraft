@@ -10,7 +10,7 @@ import motorph.Employee;
 import java.util.List;
 import java.util.Map;
 import java.awt.Frame;
-import motorph.gui.MainApplication;
+import view.MainApplication;
 
 /**
  * A panel for displaying and managing employee records.
